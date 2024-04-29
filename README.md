@@ -18,16 +18,16 @@ some exercise for the Leonardo Challenges
 ### Week 1
 | pdf  | exercise |
 |------|----------|
-| [`pdf 00`]()   |          |
-| [`pdf 01`]()   |          |
-| [`pdf 02`]()   |          | 
-| [`pdf 03`]()   |          |
-| [`pdf 04`]()   |          |
+| [`pdf 00`](https://github.com/alessiotucci/JAVA-ANGULAR/blob/main/AngularWeek2Day01/AngularWeek1Day01.pdf)   |          |
+| [`pdf 01`](https://github.com/alessiotucci/JAVA-ANGULAR/blob/main/AngularWeek2Day02/AngularWeek1Day02.pdf)   |          |
+| [`pdf 02`](https://github.com/alessiotucci/JAVA-ANGULAR/blob/main/AngularWeek2Day03/AngularWeek1Day03.pdf)   |          | 
+| [`pdf 03`](https://github.com/alessiotucci/JAVA-ANGULAR/blob/main/AngularWeek2Day04/AngularWeek1Day04.pdf)   |          |
+| [`pdf 04`](https://github.com/alessiotucci/JAVA-ANGULAR/blob/main/AngularWeek2Day05/AngularWeek1Day05.pdf)   |          |
 ### Week 2
 | pdf | exercise |
 |------|----------|
-| [`pdf 00`]()   |          |
-| [`pdf 01`]()   |          |
-| [`pdf 02`]()   |          | 
-| [`pdf 03`]()   |          |
-| [`pdf 04`]()   |          |
+| [`pdf 00`](https://github.com/alessiotucci/JAVA-ANGULAR/blob/main/AngularWeek2Day01/AngularWeek2Day01.pdf)   |          |
+| [`pdf 01`](https://github.com/alessiotucci/JAVA-ANGULAR/blob/main/AngularWeek2Day02/AngularWeek2Day02.pdf)   |          |
+| [`pdf 02`](https://github.com/alessiotucci/JAVA-ANGULAR/blob/main/AngularWeek2Day03/AngularWeek2Day03.pdf)   |          | 
+| [`pdf 03`](https://github.com/alessiotucci/JAVA-ANGULAR/blob/main/AngularWeek2Day04/AngularWeek2Day04.pdf)   |          |
+| [`pdf 04`](https://github.com/alessiotucci/JAVA-ANGULAR/blob/main/AngularWeek2Day05/AngularWeek2Day05.pdf)   |          |
