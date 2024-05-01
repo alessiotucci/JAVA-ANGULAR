@@ -1,5 +1,29 @@
 # JAVA-ANGULAR
-some exercise for the Leonardo Challenges
+### some exercise for the Leonardo Challenges
+I will start with presenting the command needed to compile and run some java code:
+* Open a terminal and type the following command:
+
+```
+java -version
+```
+
+* If Java is installed, you should see output indicating the version of the Java runtime. If not, you’ll need to install it. Here’s how you can install Java (OpenJDK 11) on Ubuntu:
+
+
+```
+sudo apt update
+sudo apt install openjdk-11-jdk
+```
+
+* To compile it, use the javac command:
+```
+javac HelloWorld.java
+```
+
+* To run your program, use the java command:
+```
+java HelloWorld
+```
 ## Java
 | pdf  | exercise |
 |------|----------|
